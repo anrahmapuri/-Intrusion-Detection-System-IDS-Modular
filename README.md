@@ -1,6 +1,6 @@
 # -Intrusion-Detection-System-IDS-Modular
 
-#Kontribusi Anggota Kelompok
+# Kontribusi Anggota Kelompok
 
 Annisa Rahmapuri - 5027211018 => Membuat tampilan website
 
